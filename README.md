@@ -187,4 +187,5 @@ Student Query (text + optional image)
 ---
 
 *Built for BLDEACET Progress Project 1 · Lost & Found Reunion*
+-----
 Vaishnavi Deshpande
