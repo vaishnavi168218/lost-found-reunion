@@ -1,9 +1,9 @@
-# 🔍 Lost & Found Reunion
+# Lost & Found Reunion
 ### BLDEACET Progress Project 1 — Multi-Modal Semantic Search Engine
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 lost_found/
@@ -30,7 +30,7 @@ lost_found/
 
 ---
 
-## ⚡ Quick Start (Step by Step)
+## Quick Start (Step by Step)
 
 ### Step 1 — Prerequisites
 ```bash
@@ -90,7 +90,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🌐 Expose via ngrok (for submission)
+##  Expose via ngrok (for submission)
 
 ```bash
 # Install ngrok from https://ngrok.com/download
@@ -101,7 +101,7 @@ Share the `https://xxxx.ngrok.io` URL with your professor.
 
 ---
 
-## 🤖 Optional: Enable LLM Explanations (Ollama)
+## Optional: Enable LLM Explanations (Ollama)
 
 ```bash
 # Install Ollama: https://ollama.ai
@@ -113,7 +113,7 @@ Without Ollama, the app uses a built-in template-based explanation — still wor
 
 ---
 
-## 🧠 How the Search Works
+##  How the Search Works
 
 ```
 Student Query (text + optional image)
@@ -143,7 +143,7 @@ Student Query (text + optional image)
 
 ---
 
-## 📊 Dataset Summary
+##  Dataset Summary
 
 | Field | Description |
 |-------|-------------|
@@ -157,7 +157,7 @@ Student Query (text + optional image)
 
 ---
 
-## 🔮 How I Would Improve It (Given More Time)
+##  How I Would Improve It (Given More Time)
 
 1. **Real scraping** — Scrape Flipkart/Amazon with Selenium for 500+ items
 2. **Finer embeddings** — Fine-tune CLIP on campus-specific lost-item pairs
@@ -170,7 +170,7 @@ Student Query (text + optional image)
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -187,3 +187,4 @@ Student Query (text + optional image)
 ---
 
 *Built for BLDEACET Progress Project 1 · Lost & Found Reunion*
+Vaishnavi Deshpande
